@@ -1,0 +1,11 @@
+This is a test input.
+It contains multiple lines.
+
+Some lines are empty.
+
+Some lines have trailing spaces.     
+And some lines have     multiple spaces.
+
+There are also // C++ style comments
+/* And C block comments */
+And some more text.
