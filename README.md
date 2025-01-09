@@ -87,4 +87,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-This project was created by [ElliAur](https://github.com/ElliAur).
+This project was created by [ElliAur](https://github.com/ElliAur) in 2024.
